@@ -1,4 +1,6 @@
-﻿namespace SubsidyCalculation
+﻿using System;
+
+namespace SubsidyCalculation
 {
     /// <summary>
     /// Начисление
